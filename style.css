@@ -101,7 +101,7 @@ ul {
   background: #00000044;
   font-size: 15;
   border: 2px solid #fff;
-  margin: 10px 0px;
+  margin: 0px 0px;
 }
 .btn:hover{
   opacity: .5;
@@ -152,6 +152,7 @@ ul {
   color: #000000;
   font-size: 19px;
 }
+
 .news-cards h3 {
   font-size: 20px;
   margin: 10px 0;
