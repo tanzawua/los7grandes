@@ -7,7 +7,7 @@
   body {
     font-family: 'Oswald', sans-serif;
     /* Pattern from https://www.heropatterns.com/ */
-    background-image:  url("https://images.pexels.com/photos/821754/pexels-photo-821754.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-image:  url("/img/pexels-edoardo-colombo-1008144.jpg");
     background-repeat: no-repeat;
     object-fit: cover;
     background-size:cover;   
