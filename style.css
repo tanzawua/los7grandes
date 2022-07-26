@@ -290,6 +290,7 @@ ul {
 
   .news-cards {
     grid-template-columns: repeat(2, 1fr);
+    margin: 20px 0px;
   }
 
   .cards-banner-one .content,
