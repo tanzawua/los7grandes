@@ -1,0 +1,82 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+  }
+  
+  body {
+    font-family: 'Oswald', sans-serif;
+    /* Pattern from https://www.heropatterns.com/ */
+    background-image:  url("https://images.pexels.com/photos/1404948/pexels-photo-1404948.jpeg?auto=compress&cs=tinysrgb&w=1600");
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size:cover;   
+    background-color: #000000;
+    color: #1e272e;
+    color: #fff;
+    font-size: 17px;
+  }
+  .a1{
+    background: #00000087;
+  }
+  .a2{
+    background: #00000088;
+  }
+  
+  a {
+    color: #ffffff;
+    text-decoration: none;
+    background-color: #00000021;
+    
+  }
+  
+  ul {
+    list-style: none;
+  }
+  
+  .container {
+    width: 90%;
+    margin: auto;
+  }
+  
+  /* Navigation */
+  .nav-main {
+    font-size: 25px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 60px;
+    padding: 20px 0;
+  }
+  
+  .nav-brand {
+    width: 60px;
+   
+   
+  }
+  
+  /* Navbar Left */
+  .nav-main ul {
+    display: flex;
+  }
+  
+  .nav-main ul li {
+    padding: 10px;
+  }
+  
+  .nav-main ul li a {
+    padding: 2px;
+  }
+  
+  .nav-main ul li a:hover {
+    border-bottom: 2px solid rgb(0, 0, 0);
+  }
+  
+  .nav-main ul.nav-menu {
+    flex: 1;
+    margin-left: 12px;
+  }
+  
+  f1{
+    background-image:  url("proyectoimg/WhatsApp\ Image\ 2022-07-25\ at\ 12.50.16\ PM.jpeg");
+  }
